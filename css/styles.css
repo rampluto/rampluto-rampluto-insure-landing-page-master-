@@ -1,1 +1,222 @@
+body{
+  margin:0px;
+}
+.header{
+  margin-top: 0px;
+  padding-top: 0px;
+  height: 60px;
+  background-color: white;
+  width: 83em;
+}
+.main-body{
+  width:88em;
+  height:600px;
+  background-color: hsl(270, 9%, 17%);
+}
+.footer{
+  width:83em;
+  background-color:hsl(0, 0%, 98%);
+  padding-top: 1300px;
 
+}
+.left-side{
+  text-align:left;
+  position: relative;
+  left: 90px;
+  font-style:Serif;
+  font-family: 'Open Sans', sans-serif;
+}
+.right-side{
+  text-align: right;
+  position: relative;
+  bottom: 50px;
+  right: 250px;
+}
+.hor1{
+  position: relative;
+  top:150px;
+  width:100px;
+  background-color:white;
+  right:500px;
+
+
+}
+.main-title1{
+  position: relative;
+  top:150px;
+  color:white;
+  left:120px;
+}
+p{
+  position: relative;
+  top:140px;
+  left:120px;
+  color: white;
+}
+.family-intro-pic{
+  width: 500px;
+  position: relative;
+  left: 600px;
+  bottom: 50px;
+
+}
+.button-orientation{
+  position: relative;
+  bottom: 400px;
+  right:380px;
+  width: auto;
+  background-color: hsl(270, 9%, 17%);
+  color: white;
+  padding: 6px;
+}
+a{
+  text-decoration: none;
+  color:inherit;
+}
+.intro-left-pic{
+  position: relative;
+  right: 600px;
+  top:100px;
+}
+.intro-right-pic{
+  position:relative;
+  left: 80px;
+  bottom: 190px;
+}
+.main-title2{
+  position:relative;
+  top:150px;
+  left:110px;
+  font-size: 5em;
+}
+.main-body-description{
+  color: black;
+  text-emphasis-color: lightblue;
+  width:3em;
+}
+.snappy{
+  position: relative;
+  top: 200px;
+  left: 100px;
+
+}
+.snappy-title{
+  position: relative;
+  top: 200px;
+  left: 100px;
+}
+.snappy-content{
+  color: lightblue;
+  position: relative;
+  top: 200px;
+  left:100px;
+  width: 250px;
+}
+.affordable-prices{
+  position: relative;
+  bottom: 50px;
+  left: 500px;
+}
+.affordable-title{
+  position: relative;
+  bottom:50px;
+  left:500px;
+}
+.affordable-content{
+  color: lightblue;
+  width:250px;
+  position: relative;
+  left:500px;
+  top:-45px;
+
+}
+.people-first{
+  position: relative;
+  bottom:320px;
+  left:900px;
+}
+.people-title{
+  position: relative;
+  bottom:320px;
+  left: 900px;
+}
+.people-content{
+  color: lightblue;
+  left:900px;
+  width: 250px;
+  top: -320px;
+}
+.how-we-work{
+  width: 1000px;
+  background-color:  hsl(270, 9%, 17%);
+  color:white;
+  position: relative;
+  left: 100px;
+  bottom: 300px;
+  height: 250px;
+}
+.how-title{
+  position: relative;
+  top:100px;
+  font-size: 50px;
+}
+.how-button{
+ position:relative;
+ left:800px;
+ bottom: 250px;
+ background-color: hsl(270, 9%, 17%);
+ color: white;
+ padding: 6px;
+}
+.how-image{
+  position: relative;
+  bottom: 150px;
+  left: 440px
+}
+.footer-title{
+  position: relative;
+  left: 100px;
+}
+.facebook{
+  position: relative;
+  left:940px;
+}
+.pinterest{
+  position: relative;
+  left:960px;
+}
+.instagram{
+  position: relative;
+  left:980px;
+}
+.twitter{
+  position: relative;
+  left:1000px;
+}
+.footer-hr{
+  width:1000px;
+  position:relative;
+  right:70px;
+}
+.company{
+  color:inherit;
+  position: relative;
+}
+.help{
+  color: inherit;
+  position: relative;
+  left:400px;
+  top:-60px;
+}
+.contact{
+  color:inherit;
+  position: relative;
+  left: 700px;
+  top:-260px;
+}
+.others{
+  color: inherit;
+  position: relative;
+  left: 1000px;
+  top:-430px;
+}
